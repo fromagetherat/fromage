@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  7 JUL 2018 17:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  8 JUL 2018 12:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -352,11 +352,11 @@ jpg>]
 File: testudines/chelydridae/tax.png Graphic file (type png)
 
 <use testudines/chelydridae/tax.png>
-Package pdftex.def Info: testudines/chelydridae/tax.png used on input line 102.
+Package pdftex.def Info: testudines/chelydridae/tax.png used on input line 104.
 
 (pdftex.def)             Requested size: 115.93283pt x 234.37505pt.
 
-Underfull \vbox (badness 10000) detected at line 102
+Underfull \vbox (badness 10000) detected at line 104
  []
 
 [7 <./testudines/chelydridae/tax.png>] [8]
@@ -365,7 +365,7 @@ File: testudines/chelydridae/common.jpg Graphic file (type jpg)
 
 <use testudines/chelydridae/common.jpg>
 Package pdftex.def Info: testudines/chelydridae/common.jpg used on input line 1
-03.
+05.
 (pdftex.def)             Requested size: 200.74951pt x 196.48358pt.
 
 <testudines/chelydridae/alligator.jpg, id=43, 803.0pt x 942.52126pt>
@@ -373,15 +373,46 @@ File: testudines/chelydridae/alligator.jpg Graphic file (type jpg)
 
 <use testudines/chelydridae/alligator.jpg>
 Package pdftex.def Info: testudines/chelydridae/alligator.jpg used on input lin
-e 104.
+e 106.
 (pdftex.def)             Requested size: 200.74951pt x 235.62973pt.
 ) [9 <./testudines/chelydridae/common.jpg> <./testudines/chelydridae/alligator.
+jpg>]
+(./testudines/kinosternidae/kinosternidae.tex
+<testudines/kinosternidae/tax.png, id=47, 233.87375pt x 361.35pt>
+<use testudines/kinosternidae/tax.png> <use testudines/kinosternidae/tax.png>
+File: testudines/kinosternidae/tax.png Graphic file (type png)
+
+<use testudines/kinosternidae/tax.png>
+Package pdftex.def Info: testudines/kinosternidae/tax.png used on input line 94
+.
+(pdftex.def)             Requested size: 116.93657pt x 180.67456pt.
+
+Underfull \vbox (badness 10000) detected at line 94
+ []
+
+[10 <./testudines/kinosternidae/tax.png>]
+<testudines/kinosternidae/kino1.jpg, id=52, 1027.84pt x 684.5575pt>
+File: testudines/kinosternidae/kino1.jpg Graphic file (type jpg)
+
+<use testudines/kinosternidae/kino1.jpg>
+Package pdftex.def Info: testudines/kinosternidae/kino1.jpg used on input line 
+95.
+(pdftex.def)             Requested size: 256.95937pt x 171.13895pt.
+
+<testudines/kinosternidae/kino2.jpg, id=53, 560.0925pt x 369.38pt>
+File: testudines/kinosternidae/kino2.jpg Graphic file (type jpg)
+
+<use testudines/kinosternidae/kino2.jpg>
+Package pdftex.def Info: testudines/kinosternidae/kino2.jpg used on input line 
+96.
+(pdftex.def)             Requested size: 280.04556pt x 184.68954pt.
+) [11 <./testudines/kinosternidae/kino1.jpg> <./testudines/kinosternidae/kino2.
 jpg>] (./binder.aux) ) 
 Here is how much of TeX's memory you used:
- 3905 strings out of 492995
- 56517 string characters out of 6132704
- 175382 words of memory out of 5000000
- 7402 multiletter control sequences out of 15000+600000
+ 3924 strings out of 492995
+ 57125 string characters out of 6132704
+ 175965 words of memory out of 5000000
+ 7415 multiletter control sequences out of 15000+600000
  5504 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,14n,32p,835b,620s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -391,10 +422,10 @@ fonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmti10.pfb>
-Output written on binder.pdf (9 pages, 470037 bytes).
+Output written on binder.pdf (11 pages, 949392 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 75 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
