@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  8 JUL 2018 12:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  8 JUL 2018 12:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -302,19 +302,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./croc
 odylia/crocodylidae/crocodylidae.tex
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd)
-Underfull \vbox (badness 10000) detected at line 121
- []
-
-[2]
-<crocodylia/crocodylidae/crocodylidae.png, id=13, 235.88126pt x 286.06876pt>
+<crocodylia/crocodylidae/crocodylidae.png, id=9, 235.88126pt x 286.06876pt>
+<use crocodylia/crocodylidae/crocodylidae.png>
+<use crocodylia/crocodylidae/crocodylidae.png>
 File: crocodylia/crocodylidae/crocodylidae.png Graphic file (type png)
 
 <use crocodylia/crocodylidae/crocodylidae.png>
 Package pdftex.def Info: crocodylia/crocodylidae/crocodylidae.png used on input
- line 122.
-(pdftex.def)             Requested size: 176.9105pt x 214.55104pt.
-) [3 <./crocodylia/crocodylidae/crocodylidae.png>] (./crocodylia/alligatoridae/
-alligatoridae.tex
+ line 123.
+(pdftex.def)             Requested size: 117.94034pt x 143.03403pt.
+
+Underfull \vbox (badness 10000) detected at line 123
+ []
+
+[2 <./crocodylia/crocodylidae/crocodylidae.png>]) [3]
+(./crocodylia/alligatoridae/alligatoridae.tex
 <crocodylia/alligatoridae/taxonomy.png, id=19, 231.86626pt x 289.08pt>
 <use crocodylia/alligatoridae/taxonomy.png>
 <use crocodylia/alligatoridae/taxonomy.png>
@@ -411,7 +413,7 @@ jpg>] (./binder.aux) )
 Here is how much of TeX's memory you used:
  3924 strings out of 492995
  57125 string characters out of 6132704
- 175965 words of memory out of 5000000
+ 175968 words of memory out of 5000000
  7415 multiletter control sequences out of 15000+600000
  5504 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -422,7 +424,7 @@ fonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmti10.pfb>
-Output written on binder.pdf (11 pages, 949392 bytes).
+Output written on binder.pdf (11 pages, 949400 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  42 compressed objects within 1 object stream
