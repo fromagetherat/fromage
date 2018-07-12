@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  11 JUL 2018 18:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  12 JUL 2018 13:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -416,15 +416,15 @@ jpg>]
 File: testudines/emydidae/tax.png Graphic file (type png)
 
 <use testudines/emydidae/tax.png>
-Package pdftex.def Info: testudines/emydidae/tax.png used on input line 94.
+Package pdftex.def Info: testudines/emydidae/tax.png used on input line 102.
 (pdftex.def)             Requested size: 114.42722pt x 114.92908pt.
 
-Underfull \vbox (badness 10000) detected at line 94
+Underfull \vbox (badness 10000) detected at line 102
  []
 
-[12 <./testudines/emydidae/tax.png>])
+[12 <./testudines/emydidae/tax.png>]) [13]
 (./testudines/emydidae/terrapene/terrapene.tex
-<testudines/emydidae/terrapene/tax.png, id=62, 265.99374pt x 662.475pt>
+<testudines/emydidae/terrapene/tax.png, id=66, 265.99374pt x 662.475pt>
 <use testudines/emydidae/terrapene/tax.png>
 <use testudines/emydidae/terrapene/tax.png>
 File: testudines/emydidae/terrapene/tax.png Graphic file (type png)
@@ -437,33 +437,117 @@ ne 83.
 Underfull \vbox (badness 10000) detected at line 83
  []
 
-[13 <./testudines/emydidae/terrapene/tax.png>]
-<testudines/emydidae/terrapene/box.jpg, id=68, 297.2706pt x 259.2084pt>
+[14 <./testudines/emydidae/terrapene/tax.png>]
+<testudines/emydidae/terrapene/box.jpg, id=71, 297.2706pt x 259.2084pt>
 File: testudines/emydidae/terrapene/box.jpg Graphic file (type jpg)
 
 <use testudines/emydidae/terrapene/box.jpg>
 Package pdftex.def Info: testudines/emydidae/terrapene/box.jpg used on input li
 ne 84.
 (pdftex.def)             Requested size: 297.26987pt x 259.20775pt.
-) [14 <./testudines/emydidae/terrapene/box.jpg>] (./binder.aux) ) 
+
+<testudines/emydidae/terrapene/plastron.jpg, id=72, 642.4pt x 429.605pt>
+File: testudines/emydidae/terrapene/plastron.jpg Graphic file (type jpg)
+
+<use testudines/emydidae/terrapene/plastron.jpg>
+Package pdftex.def Info: testudines/emydidae/terrapene/plastron.jpg used on inp
+ut line 85.
+(pdftex.def)             Requested size: 289.07733pt x 193.32045pt.
+) [15 <./testudines/emydidae/terrapene/box.jpg> <./testudines/emydidae/terrapen
+e/plastron.jpg>]
+(./testudines/emydidae/actinemys/actinemys.tex
+<testudines/emydidae/actinemys/tax.png, id=76, 262.9825pt x 389.455pt>
+<use testudines/emydidae/actinemys/tax.png>
+<testudines/emydidae/actinemys/range.png, id=77, 259.97125pt x 154.5775pt>
+<use testudines/emydidae/actinemys/range.png>
+<use testudines/emydidae/actinemys/tax.png>
+<use testudines/emydidae/actinemys/range.png>
+File: testudines/emydidae/actinemys/tax.png Graphic file (type png)
+
+<use testudines/emydidae/actinemys/tax.png>
+Package pdftex.def Info: testudines/emydidae/actinemys/tax.png used on input li
+ne 83.
+(pdftex.def)             Requested size: 131.49092pt x 194.72702pt.
+File: testudines/emydidae/actinemys/range.png Graphic file (type png)
+
+<use testudines/emydidae/actinemys/range.png>
+Package pdftex.def Info: testudines/emydidae/actinemys/range.png used on input 
+line 83.
+(pdftex.def)             Requested size: 207.97728pt x 123.66214pt.
+
+Underfull \vbox (badness 10000) detected at line 83
+ []
+
+[16 <./testudines/emydidae/actinemys/tax.png> <./testudines/emydidae/actinemys/
+range.png>]
+<testudines/emydidae/actinemys/1.jpg, id=84, 489.32813pt x 325.96782pt>
+File: testudines/emydidae/actinemys/1.jpg Graphic file (type jpg)
+
+<use testudines/emydidae/actinemys/1.jpg>
+Package pdftex.def Info: testudines/emydidae/actinemys/1.jpg used on input line
+ 84.
+(pdftex.def)             Requested size: 244.66345pt x 162.9835pt.
+
+<testudines/emydidae/actinemys/3.jpg, id=85, 804.00375pt x 536.0025pt>
+File: testudines/emydidae/actinemys/3.jpg Graphic file (type jpg)
+
+<use testudines/emydidae/actinemys/3.jpg>
+Package pdftex.def Info: testudines/emydidae/actinemys/3.jpg used on input line
+ 85.
+(pdftex.def)             Requested size: 201.00044pt x 134.00029pt.
+) [17 <./testudines/emydidae/actinemys/1.jpg> <./testudines/emydidae/actinemys/
+3.jpg>]
+(./testudines/emydidae/malaclemys/malaclemys.tex
+<testudines/emydidae/malaclemys/tax.png, id=89, 230.8625pt x 293.095pt>
+<use testudines/emydidae/malaclemys/tax.png>
+<use testudines/emydidae/malaclemys/tax.png>
+File: testudines/emydidae/malaclemys/tax.png Graphic file (type png)
+
+<use testudines/emydidae/malaclemys/tax.png>
+Package pdftex.def Info: testudines/emydidae/malaclemys/tax.png used on input l
+ine 90.
+(pdftex.def)             Requested size: 115.43095pt x 146.54713pt.
+
+Underfull \vbox (badness 10000) detected at line 90
+ []
+
+[18 <./testudines/emydidae/malaclemys/tax.png>]
+<testudines/emydidae/malaclemys/1.jpg, id=94, 2930.95pt x 1954.30125pt>
+File: testudines/emydidae/malaclemys/1.jpg Graphic file (type jpg)
+
+<use testudines/emydidae/malaclemys/1.jpg>
+Package pdftex.def Info: testudines/emydidae/malaclemys/1.jpg used on input lin
+e 91.
+(pdftex.def)             Requested size: 219.81177pt x 146.56627pt.
+
+<testudines/emydidae/malaclemys/2.jpeg, id=95, 192.72pt x 128.3997pt>
+File: testudines/emydidae/malaclemys/2.jpeg Graphic file (type jpg)
+
+<use testudines/emydidae/malaclemys/2.jpeg>
+Package pdftex.def Info: testudines/emydidae/malaclemys/2.jpeg used on input li
+ne 92.
+(pdftex.def)             Requested size: 192.71951pt x 128.39938pt.
+) [19 <./testudines/emydidae/malaclemys/1.jpg> <./testudines/emydidae/malaclemy
+s/2.jpeg>] (./binder.aux) ) 
 Here is how much of TeX's memory you used:
- 3951 strings out of 492995
- 57928 string characters out of 6132704
- 176040 words of memory out of 5000000
- 7434 multiletter control sequences out of 15000+600000
+ 4001 strings out of 492995
+ 59624 string characters out of 6132704
+ 176112 words of memory out of 5000000
+ 7469 multiletter control sequences out of 15000+600000
  5504 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,14n,32p,835b,620s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/te
-xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/tex
-live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texl
-ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
-e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
-/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on binder.pdf (14 pages, 1236868 bytes).
+</usr/local/texlive/2017/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmti10.pfb>
+Output written on binder.pdf (19 pages, 2829283 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 121 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
