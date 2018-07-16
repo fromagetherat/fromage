@@ -9,3 +9,5 @@
 \contentsline {subsubsection}{\numberline {2.3.1}Terrapene --- Box Turtles}{14}
 \contentsline {subsubsection}{\numberline {2.3.2}Actinemys --- Western Pond Turtles}{16}
 \contentsline {subsubsection}{\numberline {2.3.3}Malaclemys --- Diamondback Terrapins}{18}
+\contentsline {subsubsection}{\numberline {2.3.4}Graptemys --- Map Turtles}{20}
+\contentsline {subsubsection}{\numberline {2.3.5}Chrysemys --- Painted Turtles}{22}
