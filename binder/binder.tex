@@ -8,17 +8,19 @@
 \usepackage{import}
 \usepackage{titlesec}
 %\newcommand{\herpname}[1]{\begin{center} \Large{\textbf{#1}} \end{center}}
+\newcommand{\scalegraphics}[2]{\includegraphics[scale=#2]{#1}}
+\newcommand{\centeredgraphics}[2]{\begin{center} \scalegraphics{#1}{#2} \end{center}}
 %\titleformat*{\section}{\Large\bfseries}
 
 \begin{document}
 \tableofcontents
 \pagebreak
-\section{Crocodylia}
+\section{Crocodylia --- Crocodiles and Alligators}
 \input{crocodylia/crocodylidae/crocodylidae}
 \pagebreak
 \input{crocodylia/alligatoridae/alligatoridae}
 \pagebreak
-\section{Testudines}
+\section{Testudines --- Turtles and Tortoises}
 \input{testudines/chelydridae/chelydridae}
 \pagebreak
 \input{testudines/kinosternidae/kinosternidae}
@@ -38,6 +40,22 @@
 \input{testudines/emydidae/chrysemys/chrysemys}
 \pagebreak
 \input{testudines/emydidae/pseudemys/pseudemys}
+\pagebreak
+\input{testudines/emydidae/clemmys/clemmys}
+\pagebreak
+\input{testudines/emydidae/glyptemys/glyptemys}
+\pagebreak
+\input{testudines/emydidae/deirochelys/deirochelys}
+\pagebreak
+\input{testudines/emydidae/emydoidea/emydoidea}
+\pagebreak
+\input{testudines/testudinidae/testudinidae}
+\pagebreak
+\input{testudines/cheloniidae/cheloniidae}
+\pagebreak
+\input{testudines/trionychidae/trionychidae}
+\pagebreak
+\section{Lacertila/Sauria --- Lizards}
 \end{document}
 
-%glossary: barbels, estivation, keels, shell anatomy (see emydidae), scutes, hibernacula, hyoid apparatus, state reptiles, TSD patterns, brumation, terrapins
+%glossary: barbels, estivation, keels, shell anatomy (see emydidae), scutes, hibernacula, hyoid apparatus, state reptiles, TSD patterns, brumation, terrapins, impact of TSD and global warming,

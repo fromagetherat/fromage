@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  19 JUL 2018 18:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  24 JUL 2018 18:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -182,18 +182,18 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 (./binder.aux)
 \openout1 = `binder.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -655,27 +655,200 @@ Package pdftex.def Info: testudines/emydidae/pseudemys/2.jpg used on input line
  80.
 (pdftex.def)             Requested size: 209.68033pt x 132.07402pt.
 ) [27 <./testudines/emydidae/pseudemys/1.jpeg> <./testudines/emydidae/pseudemys
-/2.jpg>] (./binder.aux) ) 
+/2.jpg>]
+(./testudines/emydidae/clemmys/clemmys.tex
+<testudines/emydidae/clemmys/tax.png, id=143, 230.8625pt x 262.9825pt>
+<use testudines/emydidae/clemmys/tax.png>
+<testudines/emydidae/clemmys/range.png, id=144, 225.84375pt x 259.97125pt>
+<use testudines/emydidae/clemmys/range.png>
+<use testudines/emydidae/clemmys/tax.png>
+<use testudines/emydidae/clemmys/range.png>
+File: testudines/emydidae/clemmys/tax.png Graphic file (type png)
+
+<use testudines/emydidae/clemmys/tax.png>
+Package pdftex.def Info: testudines/emydidae/clemmys/tax.png used on input line
+ 88.
+(pdftex.def)             Requested size: 115.43095pt x 131.49092pt.
+File: testudines/emydidae/clemmys/range.png Graphic file (type png)
+
+<use testudines/emydidae/clemmys/range.png>
+Package pdftex.def Info: testudines/emydidae/clemmys/range.png used on input li
+ne 88.
+(pdftex.def)             Requested size: 112.92159pt x 129.9853pt.
+
+Underfull \vbox (badness 10000) detected at line 88
+ []
+
+[28 <./testudines/emydidae/clemmys/tax.png>]
+<testudines/emydidae/clemmys/1.jpg, id=149, 557.08125pt x 616.704pt>
+File: testudines/emydidae/clemmys/1.jpg Graphic file (type jpg)
+
+<use testudines/emydidae/clemmys/1.jpg>
+Package pdftex.def Info: testudines/emydidae/clemmys/1.jpg used on input line 8
+9.
+(pdftex.def)             Requested size: 208.90495pt x 231.26343pt.
+) [29 <./testudines/emydidae/clemmys/range.png> <./testudines/emydidae/clemmys/
+1.jpg>]
+(./testudines/emydidae/glyptemys/glyptemys.tex
+<testudines/emydidae/glyptemys/tax.png, id=154, 235.88126pt x 341.275pt>
+<use testudines/emydidae/glyptemys/tax.png>
+<use testudines/emydidae/glyptemys/tax.png>
+File: testudines/emydidae/glyptemys/tax.png Graphic file (type png)
+
+<use testudines/emydidae/glyptemys/tax.png>
+Package pdftex.def Info: testudines/emydidae/glyptemys/tax.png used on input li
+ne 58.
+(pdftex.def)             Requested size: 117.94034pt x 170.63707pt.
+
+Underfull \vbox (badness 10000) detected at line 58
+ []
+
+<testudines/emydidae/glyptemys/1.jpg, id=155, 296.01791pt x 199.75427pt>
+File: testudines/emydidae/glyptemys/1.jpg Graphic file (type jpg)
+
+<use testudines/emydidae/glyptemys/1.jpg>
+Package pdftex.def Info: testudines/emydidae/glyptemys/1.jpg used on input line
+ 59.
+(pdftex.def)             Requested size: 148.00859pt x 99.87689pt.
+
+<testudines/emydidae/glyptemys/2.jpg, id=156, 803.0pt x 698.61pt>
+File: testudines/emydidae/glyptemys/2.jpg Graphic file (type jpg)
+
+<use testudines/emydidae/glyptemys/2.jpg>
+Package pdftex.def Info: testudines/emydidae/glyptemys/2.jpg used on input line
+ 60.
+(pdftex.def)             Requested size: 120.4448pt x 104.78697pt.
+) [30 <./testudines/emydidae/glyptemys/tax.png> <./testudines/emydidae/glyptemy
+s/1.jpg> <./testudines/emydidae/glyptemys/2.jpg>] (./testudines/emydidae/deiroc
+helys/deirochelys.tex
+<testudines/emydidae/deirochelys/tax.png, id=161, 234.8775pt x 263.98625pt>
+<use testudines/emydidae/deirochelys/tax.png>
+<use testudines/emydidae/deirochelys/tax.png>
+File: testudines/emydidae/deirochelys/tax.png Graphic file (type png)
+
+<use testudines/emydidae/deirochelys/tax.png>
+Package pdftex.def Info: testudines/emydidae/deirochelys/tax.png used on input 
+line 70.
+(pdftex.def)             Requested size: 117.43846pt x 131.9928pt.
+
+Underfull \vbox (badness 10000) detected at line 70
+ []
+
+<testudines/emydidae/deirochelys/1.jpg, id=162, 800.9925pt x 1027.84pt>
+File: testudines/emydidae/deirochelys/1.jpg Graphic file (type jpg)
+
+<use testudines/emydidae/deirochelys/1.jpg>
+Package pdftex.def Info: testudines/emydidae/deirochelys/1.jpg used on input li
+ne 71.
+(pdftex.def)             Requested size: 200.24763pt x 256.95937pt.
+ [31 <./testudines/emydidae/deirochelys/tax.png>]) [32 <./testudines/emydidae/d
+eirochelys/1.jpg>]
+(./testudines/emydidae/emydoidea/emydoidea.tex
+<testudines/emydidae/emydoidea/tax.png, id=171, 236.885pt x 289.08pt>
+<use testudines/emydidae/emydoidea/tax.png>
+<testudines/emydidae/emydoidea/range.png, id=172, 365.365pt x 190.7125pt>
+<use testudines/emydidae/emydoidea/range.png>
+<use testudines/emydidae/emydoidea/tax.png>
+<use testudines/emydidae/emydoidea/range.png>
+File: testudines/emydidae/emydoidea/tax.png Graphic file (type png)
+
+<use testudines/emydidae/emydoidea/tax.png>
+Package pdftex.def Info: testudines/emydidae/emydoidea/tax.png used on input li
+ne 58.
+(pdftex.def)             Requested size: 118.4422pt x 144.53964pt.
+File: testudines/emydidae/emydoidea/range.png Graphic file (type png)
+
+<use testudines/emydidae/emydoidea/range.png>
+Package pdftex.def Info: testudines/emydidae/emydoidea/range.png used on input 
+line 58.
+(pdftex.def)             Requested size: 182.68205pt x 95.356pt.
+
+Underfull \vbox (badness 10000) detected at line 58
+ []
+
+) [33 <./testudines/emydidae/emydoidea/tax.png> <./testudines/emydidae/emydoide
+a/range.png>] (./testudines/testudinidae/testudinidae.tex
+<testudines/testudinidae/tax.png, id=178, 235.88126pt x 231.86626pt>
+<use testudines/testudinidae/tax.png> <use testudines/testudinidae/tax.png>
+File: testudines/testudinidae/tax.png Graphic file (type png)
+
+<use testudines/testudinidae/tax.png>
+Package pdftex.def Info: testudines/testudinidae/tax.png used on input line 110
+.
+(pdftex.def)             Requested size: 117.94034pt x 115.93283pt.
+
+Underfull \vbox (badness 10000) detected at line 110
+ []
+
+[34 <./testudines/testudinidae/tax.png>]
+<testudines/testudinidae/1.jpg, id=183, 1027.84pt x 770.88pt>
+File: testudines/testudinidae/1.jpg Graphic file (type jpg)
+
+<use testudines/testudinidae/1.jpg>
+Package pdftex.def Info: testudines/testudinidae/1.jpg used on input line 111.
+(pdftex.def)             Requested size: 256.95937pt x 192.71953pt.
+) [35 <./testudines/testudinidae/1.jpg>]
+(./testudines/cheloniidae/cheloniidae.tex
+<testudines/cheloniidae/tax.png, id=187, 231.86626pt x 232.87pt>
+<use testudines/cheloniidae/tax.png> <use testudines/cheloniidae/tax.png>
+File: testudines/cheloniidae/tax.png Graphic file (type png)
+
+<use testudines/cheloniidae/tax.png>
+Package pdftex.def Info: testudines/cheloniidae/tax.png used on input line 68.
+(pdftex.def)             Requested size: 115.93283pt x 116.43471pt.
+
+Underfull \vbox (badness 10000) detected at line 68
+ []
+
+<testudines/cheloniidae/1.jpg, id=188, 740.0448pt x 493.6041pt>
+File: testudines/cheloniidae/1.jpg Graphic file (type jpg)
+
+<use testudines/cheloniidae/1.jpg>
+Package pdftex.def Info: testudines/cheloniidae/1.jpg used on input line 69.
+(pdftex.def)             Requested size: 370.0215pt x 246.80144pt.
+ [36 <./testudines/cheloniidae/tax.png>])
+[37 <./testudines/cheloniidae/1.jpg>]
+(./testudines/trionychidae/trionychidae.tex
+<testudines/trionychidae/tax.png, id=197, 234.8775pt x 323.2075pt>
+<use testudines/trionychidae/tax.png> <use testudines/trionychidae/tax.png>
+File: testudines/trionychidae/tax.png Graphic file (type png)
+
+<use testudines/trionychidae/tax.png>
+Package pdftex.def Info: testudines/trionychidae/tax.png used on input line 74.
+
+(pdftex.def)             Requested size: 117.43846pt x 161.60335pt.
+
+Underfull \vbox (badness 10000) detected at line 74
+ []
+
+<testudines/trionychidae/1.jpg, id=198, 633.6pt x 393.03pt>
+File: testudines/trionychidae/1.jpg Graphic file (type jpg)
+
+<use testudines/trionychidae/1.jpg>
+Package pdftex.def Info: testudines/trionychidae/1.jpg used on input line 75.
+(pdftex.def)             Requested size: 316.79922pt x 196.51451pt.
+ [38 <./testudines/trionychidae/tax.png>])
+[39 <./testudines/trionychidae/1.jpg>] [40] (./binder.aux) ) 
 Here is how much of TeX's memory you used:
- 4069 strings out of 492995
- 62148 string characters out of 6132704
- 176256 words of memory out of 5000000
- 7521 multiletter control sequences out of 15000+600000
+ 4174 strings out of 492995
+ 65660 string characters out of 6132704
+ 176604 words of memory out of 5000000
+ 7598 multiletter control sequences out of 15000+600000
  5504 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,14n,32p,835b,620s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmsy7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmti10.pfb>
-Output written on binder.pdf (27 pages, 4372080 bytes).
+</usr/local/texlive
+/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/20
+17/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2017/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on binder.pdf (40 pages, 6011931 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
+ 236 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 166 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 246 words of extra memory for PDF output out of 10000 (max. 10000000)
 
