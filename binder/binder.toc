@@ -21,3 +21,10 @@
 \contentsline {subsection}{\numberline {2.5}Cheloniidae --- Sea Turtles}{36}
 \contentsline {subsection}{\numberline {2.6}Trionychidae --- Soft-Shelled Turtles}{38}
 \contentsline {section}{\numberline {3}Lacertila/Sauria --- Lizards}{40}
+\contentsline {subsection}{\numberline {3.1}Gekkonidae --- Gecko Lizards}{40}
+\contentsline {subsection}{\numberline {3.2}Polychridae --- Anoles}{43}
+\contentsline {subsubsection}{\numberline {3.2.1}Anolis --- Anoles}{43}
+\contentsline {subsection}{\numberline {3.3}Iguanidae --- Iguanids}{45}
+\contentsline {subsubsection}{\numberline {3.3.1}Iguana --- Green Iguana}{45}
+\contentsline {subsubsection}{\numberline {3.3.2}Dipsosaurus}{47}
+\contentsline {subsubsection}{\numberline {3.3.3}Sauromalus --- Chuckwalla}{48}
