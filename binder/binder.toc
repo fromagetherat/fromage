@@ -26,5 +26,11 @@
 \contentsline {subsubsection}{\numberline {3.2.1}Anolis --- Anoles}{43}
 \contentsline {subsection}{\numberline {3.3}Iguanidae --- Iguanids}{45}
 \contentsline {subsubsection}{\numberline {3.3.1}Iguana --- Green Iguana}{45}
-\contentsline {subsubsection}{\numberline {3.3.2}Dipsosaurus}{47}
+\contentsline {subsubsection}{\numberline {3.3.2}Dipsosaurus --- Desert Iguana}{47}
 \contentsline {subsubsection}{\numberline {3.3.3}Sauromalus --- Chuckwalla}{48}
+\contentsline {subsection}{\numberline {3.4}Crotaphytidae --- Collared Lizard}{49}
+\contentsline {subsection}{\numberline {3.5}Phrynosomatidae --- Earless, spiny, tree, side-blotched, horned lizards}{51}
+\contentsline {subsubsection}{\numberline {3.5.1}Sceloporus --- Spiny Lizards}{51}
+\contentsline {subsubsection}{\numberline {3.5.2}Cophosaurus and Holbrookia --- Earless Lizards}{53}
+\contentsline {subsubsection}{\numberline {3.5.3}Uma --- Fringe-Toed Lizards}{55}
+\contentsline {subsubsection}{\numberline {3.5.4}Urosaurus and Uta --- Tree and Side-Blotched Lizards}{57}
